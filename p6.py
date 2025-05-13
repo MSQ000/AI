@@ -35,3 +35,4 @@ if __name__ == "__main__":
 
     tour, total_distance = nearest_neighbor_tsp(distances)
     print("Nearest Neighbor TSP Tour:", tour)
+    print("Total Distance:",total_distance)
